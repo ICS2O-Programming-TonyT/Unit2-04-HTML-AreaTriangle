@@ -13,12 +13,11 @@ body {
   background-color: #fff;
   padding: 20px;
   border-radius: 5px;
-  box-shadow: 0 0 10px hsla(0, 0%, 0%, 20%);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 h1 {
-  text-align: center;
-  color: #3f51b5;
+  color: hsl(220, 60%, 50%);
 }
 
 .form-group {
@@ -48,6 +47,7 @@ button[type="submit"] {
   background-color: #3f51b5;
   color: #fff;
   cursor: pointer;
+  text-align: center;
 }
 
 button[type="submit"]:hover {
@@ -56,6 +56,5 @@ button[type="submit"]:hover {
 
 #result {
   margin-top: 20px;
-  text-align: center;
   color: #555;
 }
