@@ -6,4 +6,4 @@
 [![Run on Repl.it](https://repl.it/badge/github/ICS2O-Programming-TonyT/Unit2-04-HTML-AreaTriangle)](https://repl.it/github/ICS2O-Programming-TonyT/Unit2-04-HTML-AreaTriangle)
 
 
-This site can be found at: [https://ICS2O-Programming-TonyT.github.io/<REPOSITORY>](https://ICS2O-Programming-TonyT.github.io/Unit2-04-HTML-AreaTriangle)
+This site can be found at: [https://ICS2O-Programming-TonyT.github.io/Unit2-04-HTML-AreaTriangle](https://ICS2O-Programming-TonyT.github.io/Unit2-04-HTML-AreaTriangle)
